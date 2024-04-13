@@ -1,7 +1,7 @@
 from states.state_calculate_score import StateCalculateScore
-from services.service_prompt import ServicePrompt
+from utils.util_prompt import UtilPrompt
 from states.state_filter_tasks import StateFilterTasks
-from states.state_get_task import StateGetTasks
+from services.service_todoist import ServiceTodoist
 import json
 
 
@@ -13,10 +13,10 @@ class StateStart:
         while (keep):
             try:
                 # Define Services
-                service_prompt = ServicePrompt()
+                service_prompt = UtilPrompt()
 
                 # Define States
-                get_tasks = StateGetTasks()
+                service_todoist = ServiceTodoist()
                 calculate_score = StateCalculateScore()
                 filter_tasks = StateFilterTasks()
 
@@ -25,19 +25,21 @@ class StateStart:
                 month_label = service_prompt.ask_month_label()
                 time_period = service_prompt.ask_time_period()
 
+                project_list = service_todoist.get_projects(token)
+
                 # Get all task from API
-                task_list = get_tasks.run(token, time_period)
+                task_list = service_todoist.get_task(token, time_period)
 
                 # Filter by Label
-                filtered_task_list = filter_tasks.run(task_list, month_label)
+                # filtered_task_list = filter_tasks.run(task_list, month_label)
 
-                score_list, total_score = calculate_score.run(
-                    filtered_task_list, month_label)
+                #score_list, total_score = calculate_score.run(
+                    #filtered_task_list, month_label)
 
-                service_prompt.message("\n\nFinal Score:\n"+str(total_score))
-                service_prompt.print_score_list(score_list)
-                if service_prompt.ask_show_complete_json() == "y":
-                    service_prompt.message(
+                # service_prompt.message("\n\nFinal Score:\n"+str(total_score))
+                # service_prompt.print_score_list(score_list)
+                # if service_prompt.ask_show_complete_json() == "y":
+                service_prompt.message(
                         "\n\nAll tasks:\n"+json.dumps(task_list, indent=2))
 
                 keep = False

@@ -1,18 +1,18 @@
-from services.service_command import ServiceCommand
-from services.service_file import ServiceFile
+from utils.util_command import ServiceCommand
+from utils.util_file import UtilFile
 from os import environ as env
 import pwinput
 
 
-class ServicePrompt:
+class UtilPrompt:
 
     def welcome(self):
         # Define services
-        service_command = ServiceCommand()
-        service_file = ServiceFile()
+        command = ServiceCommand()
+        file = UtilFile()
 
-        greating_message = service_file.read_text_file(env["GREATING_PATH"])
-        service_command.clear_screen()
+        greating_message = file.read_text_file(env["GREATING_PATH"])
+        command.clear_screen()
         print(greating_message)
 
     def ask_user_token(self):
