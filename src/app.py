@@ -1,10 +1,10 @@
-from states.state_start import StateStart
+from services.service_start import ServiceStart
 from dotenv import load_dotenv
 
 
 # Load env variables
 load_dotenv()
 
-# State Definition
-start = StateStart()
+# Service Definition
+start = ServiceStart()
 start.run()

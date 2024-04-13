@@ -2,7 +2,7 @@ from services.service_jmespath import ServiceJMESpath
 from os import environ as env
 
 
-class StateFilterTasks:
+class ServiceFilterTasks:
 
     def run(self, task_list, month_label):
         # Service definition

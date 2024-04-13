@@ -1,3474 +1,3647 @@
+[H[2J[3J
+ _       __     __                             __      
+| |     / /__  / /________  ____ ___  ___     / /_____ 
+| | /| / / _ \/ / ___/ __ \/ __ `__ \/ _ \   / __/ __ \
+| |/ |/ /  __/ / /__/ /_/ / / / / / /  __/  / /_/ /_/ /
+|__/|__/\___/_/\___/\____/_/ /_/ /_/\___/   \__/\____/ 
+                                                       
+
+
+
+ ██████   ██████   █████  ██      ███████      ██████ ██   ██  █████  ███    ███ ██████  ██  ██████  ███    ██ ███████ ██   ██ ██ ██████       ██████ ██      ██ 
+██       ██    ██ ██   ██ ██      ██          ██      ██   ██ ██   ██ ████  ████ ██   ██ ██ ██    ██ ████   ██ ██      ██   ██ ██ ██   ██     ██      ██      ██ 
+██   ███ ██    ██ ███████ ██      ███████     ██      ███████ ███████ ██ ████ ██ ██████  ██ ██    ██ ██ ██  ██ ███████ ███████ ██ ██████      ██      ██      ██ 
+██    ██ ██    ██ ██   ██ ██           ██     ██      ██   ██ ██   ██ ██  ██  ██ ██      ██ ██    ██ ██  ██ ██      ██ ██   ██ ██ ██          ██      ██      ██ 
+ ██████   ██████  ██   ██ ███████ ███████      ██████ ██   ██ ██   ██ ██      ██ ██      ██  ██████  ██   ████ ███████ ██   ██ ██ ██           ██████ ███████ ██ 
+                                                                                                                                                                 
+                                                                                                                                                                 
+
+
+
+
+Please type the user token
+****************************************
+
+
+Please type the period to query (YYYY-M-D)
+
+Successfully authenticated via API Token
+
+
+
+
+
+All tasks:
 [
   {
-    "completed_at": "2024-03-11T23:11:19.000000Z",
-    "content": "Migrate secure files to proton @Marzo",
-    "id": "7133754321",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2230819425",
-    "section_id": null,
-    "task_id": "7783031982",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-11T19:44:05.000000Z",
-    "content": "Lunch",
-    "id": "7133249809",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7597625699",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-11T19:44:03.000000Z",
-    "content": "Breakfast",
-    "id": "7133249735",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7562880954",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-11T15:31:19.000000Z",
-    "content": "Update my calendar @Marzo",
-    "id": "7132440486",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2311885087",
-    "section_id": null,
-    "task_id": "7781680294",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-11T15:30:46.000000Z",
-    "content": "Start swimming @Large @Alexa @Marzo",
-    "id": "7132438527",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2311885087",
-    "section_id": null,
-    "task_id": "7767246273",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-11T15:30:45.000000Z",
-    "content": "Enrol on a pool @Alexa @Marzo",
-    "id": "7132438323",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2311885087",
-    "section_id": null,
-    "task_id": "7767252384",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-11T15:30:42.000000Z",
-    "content": "Test some of the pools @Alexa @Marzo",
-    "id": "7132438124",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2311885087",
-    "section_id": null,
-    "task_id": "7767248719",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-11T14:58:11.000000Z",
-    "content": "Perform claim",
-    "id": "7132319955",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2317869723",
-    "section_id": "132082037",
-    "task_id": "6718716877",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-11T14:41:28.000000Z",
-    "content": "Clear communications",
-    "id": "7132257613",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7411309151",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-11T14:41:25.000000Z",
-    "content": "Amazon prime",
-    "id": "7132257462",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7681232134",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-11T12:57:44.000000Z",
-    "content": "Take out the trash",
-    "id": "7131892993",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7648725659",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-09T21:55:10.000000Z",
-    "content": "Update budget",
-    "id": "7127941404",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "112501044",
-    "task_id": "7615133084",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-09T19:51:45.000000Z",
-    "content": "Move the monitor stand a little down @Marzo",
-    "id": "7127750610",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2315776239",
-    "section_id": null,
-    "task_id": "7770462646",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-08T23:03:10.000000Z",
-    "content": "Send an email to panzariou about the biggest challenge",
-    "id": "7125920461",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2317869723",
-    "section_id": "132627041",
-    "task_id": "7770296054",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-08T21:18:17.000000Z",
-    "content": "MCMP-CCM",
-    "id": "7125725985",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7735258013",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-08T21:18:11.000000Z",
-    "content": "OSSC/COO FE-Agents",
-    "id": "7125725864",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7659616748",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-08T21:18:11.000000Z",
-    "content": "Get list of repositories",
-    "id": "7125725856",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7659616752",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-08T21:18:11.000000Z",
-    "content": "Run the OSS scanning",
-    "id": "7125725848",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7659616760",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-08T21:18:11.000000Z",
-    "content": "Request revision for the OSSC",
-    "id": "7125725838",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7659616791",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-08T21:18:11.000000Z",
-    "content": "Create the defect",
-    "id": "7125725827",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7659616779",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-08T21:18:11.000000Z",
-    "content": "Get the approval of the OSSC",
-    "id": "7125725816",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7659616795",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-08T21:18:11.000000Z",
-    "content": "Report the findings @Email",
-    "id": "7125725813",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7659616772",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-08T21:18:11.000000Z",
-    "content": "Talk with the dev team about the findings",
-    "id": "7125725809",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7659616787",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-08T21:18:11.000000Z",
-    "content": "Send the closure email",
-    "id": "7125725798",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7659616817",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-08T21:18:11.000000Z",
-    "content": "Generate COO Report",
-    "id": "7125725791",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7659616802",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-08T21:18:11.000000Z",
-    "content": "Create the KIPS request",
-    "id": "7125725784",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7659616807",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-08T21:18:11.000000Z",
-    "content": "Get the approval of the COO",
-    "id": "7125725778",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7659616811",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-08T21:18:00.000000Z",
-    "content": "Lunch",
-    "id": "7125725374",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7597625699",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-08T18:57:14.000000Z",
-    "content": "Create text to Maithri",
-    "id": "7125423436",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2317869723",
-    "section_id": "132627041",
-    "task_id": "7770307369",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-08T17:40:56.000000Z",
-    "content": "do the dishes",
-    "id": "7125239016",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7771539426",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-08T17:40:56.000000Z",
-    "content": "Read time",
-    "id": "7125238955",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2315776194",
-    "section_id": "148233921",
-    "task_id": "7674665625",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-08T17:40:37.000000Z",
-    "content": "Shower",
-    "id": "7125238135",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7648101922",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-08T17:40:32.000000Z",
-    "content": "Clear communications",
-    "id": "7125237909",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7411309151",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-08T17:40:31.000000Z",
-    "content": "Breakfast",
-    "id": "7125237880",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7562880954",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-07T22:09:26.000000Z",
-    "content": "Lunch",
-    "id": "7122976173",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7597625699",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-07T22:09:23.000000Z",
-    "content": "Shower",
-    "id": "7122976065",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7648101922",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-07T17:13:41.000000Z",
-    "content": "Wall Street English",
-    "id": "7122261049",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7756168966",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-07T16:46:37.000000Z",
-    "content": "Breakfast",
-    "id": "7122183846",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7562880954",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-07T14:40:12.000000Z",
-    "content": "Clear communications",
-    "id": "7121809316",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7411309151",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-07T14:39:43.000000Z",
-    "content": "VGs",
-    "id": "7121808058",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7569338711",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-07T14:39:29.000000Z",
-    "content": "Swiming",
-    "id": "7121807416",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7569353113",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-07T14:38:24.000000Z",
-    "content": "Preply lesson - Cedrick A.",
-    "id": "7121804358",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2230819425",
-    "section_id": null,
-    "task_id": "7764640810",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-07T14:38:12.000000Z",
-    "content": "Snack",
-    "id": "7121803756",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7756175902",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-06T20:58:04.000000Z",
-    "content": "Lunch",
-    "id": "7119808105",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7597625699",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-06T20:58:03.000000Z",
-    "content": "Shower",
-    "id": "7119808057",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7648101922",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-06T20:58:02.000000Z",
-    "content": "Wall Street English",
-    "id": "7119808009",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7756168966",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-06T16:36:53.000000Z",
-    "content": "Breakfast",
-    "id": "7119120690",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7562880954",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-06T16:36:47.000000Z",
-    "content": "Clear communications",
-    "id": "7119120413",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7411309151",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-06T16:36:29.000000Z",
-    "content": "Feed max night",
-    "id": "7119119436",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7690060245",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-06T16:36:27.000000Z",
-    "content": "Clean the max \ud83d\udca9",
-    "id": "7119119352",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7700542392",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-06T16:33:39.000000Z",
-    "content": "Make a research and quotation of the pools nearby @Medium @Alexa @Marzo",
-    "id": "7119111168",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2311885087",
-    "section_id": null,
-    "task_id": "7767248225",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-06T16:23:52.000000Z",
-    "content": "English writing",
-    "id": "7119081522",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7292519402",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-05T21:32:45.000000Z",
-    "content": "MCMP-CommonServices",
-    "id": "7116771621",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7763275231",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-05T20:38:15.000000Z",
-    "content": "Lunch",
-    "id": "7116633477",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7577875923",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-05T16:44:48.000000Z",
-    "content": "MCMP-DevOps-Intelligence",
-    "id": "7115999189",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7711801572",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-05T16:30:43.000000Z",
-    "content": "FE-Agents",
-    "id": "7115953603",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7681265457",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-05T15:59:46.000000Z",
-    "content": "Clear communications",
-    "id": "7115854788",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2230819425",
-    "section_id": null,
-    "task_id": "7763330054",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-05T15:51:50.000000Z",
-    "content": "Wall Street English",
-    "id": "7115829075",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7756168966",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-05T15:15:38.000000Z",
-    "content": "Breakfast",
-    "id": "7115712429",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7622152680",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-05T14:41:20.000000Z",
-    "content": "Clear communications",
-    "id": "7115602146",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7411309151",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-05T14:41:06.000000Z",
-    "content": "Go to the supermarket",
-    "id": "7115601477",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7758893083",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-05T14:41:06.000000Z",
-    "content": "Snack",
-    "id": "7115601387",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7756175902",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-05T14:41:01.000000Z",
-    "content": "VGs",
-    "id": "7115601171",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7569338711",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-05T14:40:58.000000Z",
-    "content": "Feed max night",
-    "id": "7115601001",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7690060245",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-05T14:40:57.000000Z",
-    "content": "Walk max",
-    "id": "7115600952",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7648725119",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-05T14:40:55.000000Z",
-    "content": "Shower",
-    "id": "7115600817",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7648101922",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-04T18:58:50.000000Z",
-    "content": "Send email about job position @Email",
-    "id": "7113074941",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2317869723",
-    "section_id": "132627041",
-    "task_id": "7741734802",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-04T18:58:50.000000Z",
-    "content": "Lunch",
-    "id": "7113074890",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7597625699",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-04T17:16:47.000000Z",
-    "content": "Practice presentation",
-    "id": "7112755492",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501158",
-    "task_id": "7756170997",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-04T17:16:47.000000Z",
-    "content": "Wall Street English",
-    "id": "7112755422",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7756168966",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-04T17:16:35.000000Z",
-    "content": "Breakfast",
-    "id": "7112754797",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7562880954",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-04T17:16:29.000000Z",
-    "content": "Psico session @Appointment @\u23f0 Track",
-    "id": "7112754643",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "128503841",
-    "task_id": "7147511262",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-04T17:16:29.000000Z",
-    "content": "Receive Reinvestment",
-    "id": "7112754631",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "128503841",
-    "task_id": "7147514536",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-04T17:16:29.000000Z",
-    "content": "Send the required infomation",
-    "id": "7112754621",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "128503841",
-    "task_id": "7274247087",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-04T17:16:29.000000Z",
-    "content": "Get invoice approval",
-    "id": "7112754610",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "128503841",
-    "task_id": "7274247431",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-04T17:16:29.000000Z",
-    "content": "Request to validate the invoice",
-    "id": "7112754598",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "128503841",
-    "task_id": "7631766367",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-04T17:16:29.000000Z",
-    "content": "Request the reinvestment",
-    "id": "7112754587",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "128503841",
-    "task_id": "7632738231",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-04T13:42:31.000000Z",
-    "content": "Clear communications",
-    "id": "7111989837",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7411309151",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-04T13:42:14.000000Z",
-    "content": "Take out the trash",
-    "id": "7111989010",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7648725659",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-04T13:42:10.000000Z",
-    "content": "Organize my life @Medium @Alexa @Marzo",
-    "id": "7111988835",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2311885087",
-    "section_id": null,
-    "task_id": "7747300908",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-04T13:41:55.000000Z",
-    "content": "Clean the shoes @Alexa @Marzo",
-    "id": "7111988054",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7617407682",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-04T13:41:27.000000Z",
-    "content": "Perform claim",
-    "id": "7111986471",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2317869723",
-    "section_id": "132082037",
-    "task_id": "6718716877",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-04T01:17:32.000000Z",
-    "content": "Update my calendar @Medium @Alexa @Marzo",
-    "id": "7109652668",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2311885087",
-    "section_id": null,
-    "task_id": "7710400889",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-03T19:34:57.000000Z",
-    "content": "Update budget",
-    "id": "7109691682",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "112501044",
-    "task_id": "7615133084",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-03T19:32:31.000000Z",
-    "content": "Star+ & Disney + @Payments",
-    "id": "7109686077",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "112501044",
-    "task_id": "4619256357",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-03T19:32:26.000000Z",
-    "content": "Spotify @Payments",
-    "id": "7109685912",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "112501044",
-    "task_id": "4619256345",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-03T19:16:57.000000Z",
-    "content": "\ud83d\uddc4\ufe0f Go to the office @\ud83c\udfde\ufe0f Event",
-    "id": "7109651511",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "128503068",
-    "task_id": "7119074194",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-03T19:16:53.000000Z",
-    "content": "Public services @Payments",
-    "id": "7109651394",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "112501044",
-    "task_id": "4619256365",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-03T19:16:53.000000Z",
-    "content": "Arrentment @Payments",
-    "id": "7109651365",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "112501044",
-    "task_id": "4619256364",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-01T16:15:31.000000Z",
-    "content": "Dashlane @Payments",
-    "id": "7104631372",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "112501044",
-    "task_id": "4619256348",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-01T16:15:30.000000Z",
-    "content": "Star+ & Disney + @Payments",
-    "id": "7104631323",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "112501044",
-    "task_id": "4619256357",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-01T16:15:27.000000Z",
-    "content": "Pay credit card @Payments",
-    "id": "7104631173",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "112501044",
-    "task_id": "4680376770",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-01T16:15:26.000000Z",
-    "content": "Google One @Payments",
-    "id": "7104631088",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "112501044",
-    "task_id": "6051386077",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-01T16:15:24.000000Z",
-    "content": "Metrocom @Payments",
-    "id": "7104631018",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "112501044",
-    "task_id": "7370120477",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-01T15:42:21.000000Z",
-    "content": "Breakfast",
-    "id": "7104525104",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7562880954",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-01T15:42:20.000000Z",
-    "content": "Clear communications",
-    "id": "7104525049",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7411309151",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-01T15:42:04.000000Z",
-    "content": "Pack my gear",
-    "id": "7104524166",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "128503068",
-    "task_id": "7598690790",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-01T15:42:02.000000Z",
-    "content": "Clean the max \ud83d\udca9",
-    "id": "7104524100",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7700542392",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-01T15:42:01.000000Z",
-    "content": "Feed max night",
-    "id": "7104524010",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7690060245",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-01T15:41:40.000000Z",
-    "content": "Play tenis",
-    "id": "7104522917",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7569362039",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-01T15:28:58.000000Z",
-    "content": "English Encounter",
-    "id": "7104481524",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7725890523",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-03-01T15:28:58.000000Z",
-    "content": "Lunch",
-    "id": "7104481459",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7597625699",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-29T19:40:58.000000Z",
-    "content": "Breakfast",
-    "id": "7102023049",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7562880954",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-29T19:40:54.000000Z",
-    "content": "Create the anaqua request",
-    "id": "7102022889",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7711800412",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-29T15:10:44.000000Z",
-    "content": "Clear communications",
-    "id": "7101260894",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7411309151",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-29T15:05:05.000000Z",
-    "content": "Provide feedback to Amar Savalagi",
-    "id": "7101243852",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2317869723",
-    "section_id": "137697968",
-    "task_id": "7734192098",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-29T14:04:40.000000Z",
-    "content": "Liberty @Payments",
-    "id": "7101059052",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "112501044",
-    "task_id": "4619256351",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-29T14:04:01.000000Z",
-    "content": "Shower",
-    "id": "7101057064",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7648101922",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-28T18:15:43.000000Z",
-    "content": "Lunch",
-    "id": "7098716322",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7597625699",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-28T15:45:27.000000Z",
-    "content": "Clear communications",
-    "id": "7098280288",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7411309151",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-28T15:45:19.000000Z",
-    "content": "Read time",
-    "id": "7098279862",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2315776194",
-    "section_id": "148233921",
-    "task_id": "7674665625",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-28T15:45:11.000000Z",
-    "content": "VGs",
-    "id": "7098279461",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7569338711",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-27T22:41:21.000000Z",
-    "content": "Add the goal of review legal documentation",
-    "id": "7096264977",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2317869723",
-    "section_id": "131749047",
-    "task_id": "7147171298",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-27T22:40:51.000000Z",
-    "content": "Provide feedback to Grettel",
-    "id": "7096263891",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2317869723",
-    "section_id": "137697968",
-    "task_id": "7734186058",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-27T22:40:51.000000Z",
-    "content": "Breakfast",
-    "id": "7096263839",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7622152680",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-27T22:40:50.000000Z",
-    "content": "Lunch",
-    "id": "7096263817",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7577875923",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-27T16:25:38.000000Z",
-    "content": "Clear communications",
-    "id": "7095294284",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7411309151",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-27T16:25:19.000000Z",
-    "content": "Shower",
-    "id": "7095293286",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7648101922",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-27T16:25:11.000000Z",
-    "content": "Feed max night",
-    "id": "7095292887",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7690060245",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-27T16:25:09.000000Z",
-    "content": "Walk max",
-    "id": "7095292792",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7648725119",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-27T16:25:05.000000Z",
-    "content": "Workout",
-    "id": "7095292638",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7733680758",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-26T21:41:06.000000Z",
-    "content": "Request feedback",
-    "id": "7092950568",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2317869723",
-    "section_id": "132627041",
-    "task_id": "7710361415",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-26T21:40:22.000000Z",
-    "content": "Lunch",
-    "id": "7092948711",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7597625699",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-26T16:33:04.000000Z",
-    "content": "Breakfast",
-    "id": "7092043742",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7562880954",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-26T16:33:02.000000Z",
-    "content": "Generate a list of all the people who I worked with",
-    "id": "7092043653",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2317869723",
-    "section_id": "132627041",
-    "task_id": "7733846332",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-26T15:22:53.000000Z",
-    "content": "Book desktop",
-    "id": "7091792335",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "128503068",
-    "task_id": "7119074991",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-26T15:16:25.000000Z",
-    "content": "Archive at least 8 hrs working on my father web page @Febrero @Large",
-    "id": "7091769009",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2311885087",
-    "section_id": "126721252",
-    "task_id": "7232590859",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-26T15:16:04.000000Z",
-    "content": "Remove my photos from my old google account @Alexa",
-    "id": "7091767630",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2311885087",
-    "section_id": null,
-    "task_id": "7733828838",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-26T15:15:55.000000Z",
-    "content": "Remove my photos from my old google account @Febrero @Medium @Alexa",
-    "id": "7091767154",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2311885087",
-    "section_id": null,
-    "task_id": "7733828362",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-26T15:15:23.000000Z",
-    "content": "Check the AWS billing message @Febrero",
-    "id": "7091765211",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2311885087",
-    "section_id": null,
-    "task_id": "7722462570",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-26T14:42:10.000000Z",
-    "content": "Perform claim",
-    "id": "7091645322",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2317869723",
-    "section_id": "132082037",
-    "task_id": "6718716877",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-26T14:38:38.000000Z",
-    "content": "Clear communications",
-    "id": "7091632297",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7411309151",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-26T14:38:11.000000Z",
-    "content": "Action required : CR Labor Claiming starting",
-    "id": "7091630873",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2317869723",
-    "section_id": "132627041",
-    "task_id": "7710346022",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-26T13:27:19.000000Z",
-    "content": "Change my glasses @Febrero @Medium",
-    "id": "7091389855",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2311885087",
-    "section_id": null,
-    "task_id": "7565920325",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-26T13:26:52.000000Z",
-    "content": "Sport's glasses @Febrero",
-    "id": "7091388503",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2311885087",
-    "section_id": null,
-    "task_id": "7690072677",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-26T13:22:37.000000Z",
-    "content": "Standing monitor @Febrero @Medium",
-    "id": "7091374859",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2315776239",
-    "section_id": null,
-    "task_id": "7509390666",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-26T13:20:59.000000Z",
-    "content": "Take out the trash",
-    "id": "7091369631",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7648725659",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-26T13:20:47.000000Z",
-    "content": "Take the switch to repair",
-    "id": "7091369078",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2315776194",
-    "section_id": null,
-    "task_id": "7733371493",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-26T13:18:15.000000Z",
-    "content": "Update my budget @Febrero @Medium @Alexa",
-    "id": "7091361136",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2311885087",
-    "section_id": null,
-    "task_id": "7710399930",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-23T17:52:31.000000Z",
-    "content": "Define my claim code",
-    "id": "7084676338",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2317869723",
-    "section_id": "132627041",
-    "task_id": "7632569195",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-23T17:16:08.000000Z",
-    "content": "Wall Street English",
-    "id": "7084581807",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2230819425",
-    "section_id": null,
-    "task_id": "7722286298",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-23T17:16:04.000000Z",
-    "content": "Setup 1:1 with Panzario @Schedule",
-    "id": "7084581632",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2317869723",
-    "section_id": "132627041",
-    "task_id": "7715629301",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-23T17:15:30.000000Z",
-    "content": "Define what to talk",
-    "id": "7084580038",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "128503841",
-    "task_id": "7147513446",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-23T17:13:42.000000Z",
-    "content": "Clear communications",
-    "id": "7084575062",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7411309151",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-23T17:13:38.000000Z",
-    "content": "Psico session",
-    "id": "7084574890",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7631543385",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-23T17:13:34.000000Z",
-    "content": "Feed max night",
-    "id": "7084574669",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7690060245",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-23T17:13:31.000000Z",
-    "content": "Shower",
-    "id": "7084574523",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7648101922",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-23T17:13:30.000000Z",
-    "content": "Lunch",
-    "id": "7084574452",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7597625699",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-23T17:13:27.000000Z",
-    "content": "Breakfast",
-    "id": "7084574262",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7562880954",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-22T13:57:51.000000Z",
-    "content": "Clear communications",
-    "id": "7081117023",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7411309151",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-21T23:06:50.000000Z",
-    "content": "Feed max night",
-    "id": "7079547413",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7690060245",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-21T23:06:34.000000Z",
-    "content": "Lunch",
-    "id": "7079546963",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7597625699",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-21T23:06:33.000000Z",
-    "content": "Shower",
-    "id": "7079546939",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7648101922",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-21T23:06:32.000000Z",
-    "content": "Breakfast",
-    "id": "7079546912",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7562880954",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-21T23:06:28.000000Z",
-    "content": "Clear communications",
-    "id": "7079546800",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7411309151",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-20T22:54:02.000000Z",
-    "content": "Make the delta with previos reports",
-    "id": "7076469477",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7711800952",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-20T22:51:44.000000Z",
-    "content": "Lunch",
-    "id": "7076464659",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7577875923",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-20T19:08:26.000000Z",
-    "content": "Clear communications",
-    "id": "7075921181",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7411309151",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-20T18:10:50.000000Z",
-    "content": "Breakfast",
-    "id": "7075766263",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7622152680",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-20T15:14:21.000000Z",
-    "content": "Shower",
-    "id": "7075225513",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7648101922",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-20T15:12:51.000000Z",
-    "content": "Clear email @Febrero @Alexa",
-    "id": "7075220870",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2311885087",
-    "section_id": null,
-    "task_id": "7710308940",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-20T15:12:13.000000Z",
-    "content": "Goal Championship @\ud83c\udfde\ufe0f Event",
-    "id": "7075218950",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "112501044",
-    "task_id": "7510954585",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-19T23:06:01.000000Z",
-    "content": "Star+ & Disney + @Payments",
-    "id": "7073304582",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "112501044",
-    "task_id": "4619256357",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-19T15:56:37.000000Z",
-    "content": "Breakfast",
-    "id": "7072140501",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7562880954",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-19T15:24:49.000000Z",
-    "content": "Complete Unimart shopping",
-    "id": "7072034636",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2315776194",
-    "section_id": null,
-    "task_id": "7710314060",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-19T14:59:22.000000Z",
-    "content": "Perform claim",
-    "id": "7071949286",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2317869723",
-    "section_id": "132082037",
-    "task_id": "6718716877",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-19T14:51:10.000000Z",
-    "content": "Clear communications",
-    "id": "7071921362",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7411309151",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-19T14:51:08.000000Z",
-    "content": "Take out the trash",
-    "id": "7071921272",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7648725659",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-19T14:47:48.000000Z",
-    "content": "Check money status with father @Alexa",
-    "id": "7071910385",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2311885087",
-    "section_id": null,
-    "task_id": "7678977808",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-16T23:44:52.000000Z",
-    "content": "MCMP-Discovery",
-    "id": "7065765078",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501158",
-    "task_id": "7688879750",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-16T23:44:52.000000Z",
-    "content": "Shower",
-    "id": "7065765028",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7648101922",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-16T23:44:51.000000Z",
-    "content": "Lunch",
-    "id": "7065764991",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7597625699",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-16T19:14:23.000000Z",
-    "content": "Schedule the meeting with the CISO team @Schedule",
-    "id": "7065240126",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7700547620",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-16T19:14:16.000000Z",
-    "content": "Schedule meeting with Kenny @Schedule",
-    "id": "7065239878",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7700546974",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-16T15:39:09.000000Z",
-    "content": "Clear communications",
-    "id": "7064664063",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7411309151",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-16T15:39:05.000000Z",
-    "content": "Clear google photos",
-    "id": "7064663879",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "128503841",
-    "task_id": "6186474598",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-16T00:32:53.000000Z",
-    "content": "Modify the CSAR report and add the required comments on all the Elastic packages",
-    "id": "7062918455",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7699524593",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-16T00:32:39.000000Z",
-    "content": "Get into my transportation",
-    "id": "7062918037",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "128503068",
-    "task_id": "7176564368",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-16T00:31:53.000000Z",
-    "content": "OSA",
-    "id": "7062916871",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501158",
-    "task_id": "7681265864",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-16T00:31:52.000000Z",
-    "content": "Shower",
-    "id": "7062916823",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7648101922",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-15T17:58:33.000000Z",
-    "content": "Lunch",
-    "id": "7062057101",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7577875923",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-15T17:58:23.000000Z",
-    "content": "Cut the paper @Febrero",
-    "id": "7062056741",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "128501671",
-    "task_id": "7621051644",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-15T17:58:22.000000Z",
-    "content": "Create the art @Febrero",
-    "id": "7062056666",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "128501671",
-    "task_id": "7621050201",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-15T17:58:17.000000Z",
-    "content": "Make the invitation",
-    "id": "7062056460",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "128501671",
-    "task_id": "7621053079",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-15T17:58:04.000000Z",
-    "content": "Get the photo frame @Febrero",
-    "id": "7062055901",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "128501671",
-    "task_id": "7638080355",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-15T17:57:27.000000Z",
-    "content": "\ud83d\uddc4\ufe0f Go to the office @\ud83c\udfde\ufe0f Event",
-    "id": "7062054235",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "128503068",
-    "task_id": "7119074194",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-15T17:57:26.000000Z",
-    "content": "Clear communications",
-    "id": "7062054167",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7411309151",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-15T17:57:20.000000Z",
-    "content": "Breakfast",
-    "id": "7062053894",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7562880954",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-15T17:57:19.000000Z",
-    "content": "Lunch",
-    "id": "7062053857",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7597625699",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-15T17:56:45.000000Z",
-    "content": "\u2764\ufe0f Valentines day @\ud83c\udfde\ufe0f Event",
-    "id": "7062052335",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "128501671",
-    "task_id": "7605952264",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-13T16:53:20.000000Z",
-    "content": "Clear Security Alerts",
-    "id": "7055904286",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "131470350",
-    "task_id": "7440304801",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-13T16:53:15.000000Z",
-    "content": "Breakfast",
-    "id": "7055904023",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7622152680",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-13T16:53:14.000000Z",
-    "content": "Clear communications",
-    "id": "7055903986",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7411309151",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-13T16:52:21.000000Z",
-    "content": "Pack my gear",
-    "id": "7055901510",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "128503068",
-    "task_id": "7598690790",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-13T00:06:16.000000Z",
-    "content": "Create the KIPS request",
-    "id": "7053868660",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7419305387",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-12T21:50:55.000000Z",
-    "content": "Sport's glasses @Medium @Enero",
-    "id": "7053595178",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2311885087",
-    "section_id": null,
-    "task_id": "7690071751",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-12T21:47:16.000000Z",
-    "content": "OSSC Organization",
-    "id": "7053586127",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501158",
-    "task_id": "7688876431",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-12T21:46:51.000000Z",
-    "content": "Book the transportation",
-    "id": "7053585163",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "128503068",
-    "task_id": "7147330338",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-12T21:46:50.000000Z",
-    "content": "Book desktop",
-    "id": "7053585124",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "128503068",
-    "task_id": "7119074991",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-12T21:45:34.000000Z",
-    "content": "Request revision for the OSSC",
-    "id": "7053581983",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7648728647",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-12T21:45:32.000000Z",
-    "content": "Talk with the dev team about the findings",
-    "id": "7053581902",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7648728639",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-12T21:45:31.000000Z",
-    "content": "Create the defect",
-    "id": "7053581853",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7648728628",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-12T21:45:30.000000Z",
-    "content": "Report the findings @Email",
-    "id": "7053581825",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7648728618",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-12T21:45:26.000000Z",
-    "content": "Run the OSS scanning",
-    "id": "7053581653",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7648728609",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-12T21:45:24.000000Z",
-    "content": "Get list of repositories",
-    "id": "7053581608",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7648728600",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-12T21:45:16.000000Z",
-    "content": "OSSC/COO 2023 KCNS AWS",
-    "id": "7053581309",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7367973846",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-12T21:45:16.000000Z",
-    "content": "Get the approval of the COO",
-    "id": "7053581297",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7392742568",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-12T21:45:16.000000Z",
-    "content": "Send the closure email",
-    "id": "7053581295",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7392742578",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-12T21:45:07.000000Z",
-    "content": "Request revision for the OSSC",
-    "id": "7053580945",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7419305359",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-12T21:45:00.000000Z",
-    "content": "Generate COO Report",
-    "id": "7053580679",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7419305381",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-12T21:44:39.000000Z",
-    "content": "Lunch",
-    "id": "7053579786",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7597625699",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-12T16:57:13.000000Z",
-    "content": "Breakfast",
-    "id": "7052790842",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7562880954",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-12T15:33:39.000000Z",
-    "content": "Perform claim",
-    "id": "7052508533",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2317869723",
-    "section_id": "132082037",
-    "task_id": "6718716877",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-12T15:23:04.000000Z",
-    "content": "Take out the trash",
-    "id": "7052471781",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7648725659",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-12T15:23:03.000000Z",
-    "content": "Clear communications",
-    "id": "7052471680",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7411309151",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-12T15:22:45.000000Z",
-    "content": "Amazon prime",
-    "id": "7052470719",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7681232134",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-10T00:21:49.000000Z",
-    "content": "Lunch",
-    "id": "7046378108",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7597625699",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-10T00:21:48.000000Z",
-    "content": "Shower",
-    "id": "7046378089",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7648101922",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-09T18:29:06.000000Z",
-    "content": "MCMP-Discovery",
-    "id": "7045684914",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501158",
-    "task_id": "7659610431",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-09T15:41:41.000000Z",
-    "content": "Make the final page @Febrero @Medium",
-    "id": "7045215426",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2315776239",
-    "section_id": null,
-    "task_id": "7666509719",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-09T15:41:38.000000Z",
-    "content": "Connect with the domain @Febrero @Medium",
-    "id": "7045215291",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2315776239",
-    "section_id": null,
-    "task_id": "7666508860",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-09T15:41:20.000000Z",
-    "content": "Breakfast",
-    "id": "7045214367",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7562880954",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-09T15:40:57.000000Z",
-    "content": "Update budget",
-    "id": "7045213267",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "112501044",
-    "task_id": "7615133084",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-09T15:40:45.000000Z",
-    "content": "MCMP-Marketplace",
-    "id": "7045212816",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2230819425",
-    "section_id": null,
-    "task_id": "7666496642",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-09T15:40:38.000000Z",
-    "content": "Clear communications",
-    "id": "7045212404",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7411309151",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-08T20:54:48.000000Z",
-    "content": "Lunch",
-    "id": "7043050958",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7597625699",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-08T20:54:41.000000Z",
-    "content": "Shower",
-    "id": "7043050691",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7648101922",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-08T20:54:29.000000Z",
-    "content": "Wall Street English",
-    "id": "7043050294",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7554644125",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-08T20:54:21.000000Z",
-    "content": "Breakfast",
-    "id": "7043049931",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7562880954",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-07T16:41:18.000000Z",
-    "content": "Breakfast",
-    "id": "7039353206",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7562880954",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-07T16:41:12.000000Z",
-    "content": "Shower",
-    "id": "7039352909",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7648101922",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-07T16:41:02.000000Z",
-    "content": "Lunch",
-    "id": "7039352402",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7577875923",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-07T16:07:58.000000Z",
-    "content": "Wall Street English",
-    "id": "7039249405",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7554644125",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-07T16:07:56.000000Z",
-    "content": "Clear communications",
-    "id": "7039249310",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7411309151",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-06T15:28:38.000000Z",
-    "content": "Work in the CodeQL presentation",
-    "id": "7035970073",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501158",
-    "task_id": "7631820686",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-06T15:28:29.000000Z",
-    "content": "Breakfast",
-    "id": "7035969571",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7622152680",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-06T15:26:49.000000Z",
-    "content": "Lunch",
-    "id": "7035964589",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7597625699",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-05T18:46:49.000000Z",
-    "content": "Breakfast",
-    "id": "7033272205",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7562880954",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-05T18:46:45.000000Z",
-    "content": "Perform claim",
-    "id": "7033272009",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2317869723",
-    "section_id": "132082037",
-    "task_id": "6718716877",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-05T14:11:21.000000Z",
-    "content": "Spotify @Payments",
-    "id": "7032321117",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "112501044",
-    "task_id": "4619256345",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-05T14:10:18.000000Z",
-    "content": "Create a first draft @Febrero @Medium",
-    "id": "7032317426",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2315776239",
-    "section_id": null,
-    "task_id": "7666507989",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-02T23:10:42.000000Z",
-    "content": "OSSC/COO 2023 KCNS GPC",
-    "id": "7025945490",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7367973909",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-02T23:10:41.000000Z",
-    "content": "Get the approval of the COO",
-    "id": "7025945455",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7392747110",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-02T23:10:41.000000Z",
-    "content": "Send the closure email",
-    "id": "7025945438",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7392747124",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-02T22:44:40.000000Z",
-    "content": "Wall Street English",
-    "id": "7025898411",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7554644125",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-02T21:14:41.000000Z",
-    "content": "KCNS",
-    "id": "7025719128",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2230819425",
-    "section_id": null,
-    "task_id": "7658744936",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-02T21:14:39.000000Z",
-    "content": "Lunch",
-    "id": "7025719068",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7597625699",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-02T21:14:37.000000Z",
-    "content": "Clear communications",
-    "id": "7025719016",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7411309151",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-02T20:30:38.000000Z",
-    "content": "OSSC/COO 2023 KCNS Azure",
-    "id": "7025621022",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7367973785",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-02T20:30:33.000000Z",
-    "content": "Send the closure email",
-    "id": "7025620839",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7392739056",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-02T20:30:32.000000Z",
-    "content": "Get the approval of the COO",
-    "id": "7025620806",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7392739049",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-02T18:59:27.000000Z",
-    "content": "COO/OSSC AIOps",
-    "id": "7025411160",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7273233496",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-02T18:59:23.000000Z",
-    "content": "Get the approval of the COO",
-    "id": "7025410965",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7392748371",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-02T18:59:22.000000Z",
-    "content": "Send the closure email",
-    "id": "7025410911",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2316033648",
-    "section_id": "128501161",
-    "task_id": "7392748383",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-02T16:53:18.000000Z",
-    "content": "Breakfast",
-    "id": "7025071975",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7562880954",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-02T16:52:40.000000Z",
-    "content": "Lunch",
-    "id": "7025070012",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7597625699",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-02T16:52:39.000000Z",
-    "content": "Shower",
-    "id": "7025069937",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7648101922",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-01T16:26:59.000000Z",
-    "content": "Metrocom @Payments",
-    "id": "7021827216",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "112501044",
-    "task_id": "7370120477",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-01T16:26:58.000000Z",
-    "content": "Google One @Payments",
-    "id": "7021827171",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "112501044",
-    "task_id": "6051386077",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-01T16:26:57.000000Z",
-    "content": "Dashlane @Payments",
-    "id": "7021827143",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "112501044",
-    "task_id": "4619256348",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-01T16:26:57.000000Z",
-    "content": "Public services @Payments",
-    "id": "7021827113",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "112501044",
-    "task_id": "4619256365",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-01T16:26:56.000000Z",
-    "content": "Arrentment @Payments",
-    "id": "7021827047",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "112501044",
-    "task_id": "4619256364",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-01T16:17:21.000000Z",
-    "content": "Wall Street English",
-    "id": "7021796812",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7554644125",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-01T15:21:09.000000Z",
-    "content": "Breakfast",
-    "id": "7021615058",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7562880954",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-01T15:21:08.000000Z",
-    "content": "Clear communications",
-    "id": "7021615011",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": null,
-    "task_id": "7411309151",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-01T00:08:26.000000Z",
-    "content": "Pay credit card @Payments",
-    "id": "7019750852",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "112501044",
-    "task_id": "4680376770",
-    "user_id": "27122492"
-  },
-  {
-    "completed_at": "2024-02-01T00:08:21.000000Z",
-    "content": "Liberty @Payments",
-    "id": "7019750718",
-    "item_object": null,
-    "meta_data": null,
-    "note_count": 0,
-    "notes": [],
-    "project_id": "2307313234",
-    "section_id": "112501044",
-    "task_id": "4619256351",
-    "user_id": "27122492"
+    "Completed at": "2024-04-12T23:28:53.000000Z",
+    "Description": "Lunch @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-12T23:28:51.000000Z",
+    "Description": "Shower @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-12T19:04:51.000000Z",
+    "Description": "OSSC/COO documentation",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-04-12T17:19:33.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-12T16:59:52.000000Z",
+    "Description": "Breakfast @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-12T16:59:51.000000Z",
+    "Description": "Clear Security Alerts",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-04-12T14:57:21.000000Z",
+    "Description": "Clear communications @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-12T14:54:35.000000Z",
+    "Description": "Feed max night @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-12T14:54:10.000000Z",
+    "Description": "Toreto @Birthday",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-12T14:53:54.000000Z",
+    "Description": "Clean the max \ud83d\udca9 @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-12T02:29:29.000000Z",
+    "Description": "Snack @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-12T02:29:28.000000Z",
+    "Description": "Lunch @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-12T02:29:26.000000Z",
+    "Description": "Shower @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-12T02:29:20.000000Z",
+    "Description": "Call my family @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-12T02:29:16.000000Z",
+    "Description": "Play with Mario",
+    "Project": "\ud83c\udfde\ufe0f Events"
+  },
+  {
+    "Completed at": "2024-04-11T18:32:37.000000Z",
+    "Description": "Define Majeed requirement",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-04-11T16:19:04.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-11T16:19:03.000000Z",
+    "Description": "Breakfast @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-11T16:19:01.000000Z",
+    "Description": "Clear communications @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-11T16:18:57.000000Z",
+    "Description": "Dinner @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-11T16:18:56.000000Z",
+    "Description": "Take out the trash @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-11T16:18:51.000000Z",
+    "Description": "Pickup panda",
+    "Project": "\ud83d\udc3c GF"
+  },
+  {
+    "Completed at": "2024-04-11T16:18:50.000000Z",
+    "Description": "Swiming",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-11T16:18:21.000000Z",
+    "Description": "1 @Alexa",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-04-11T16:18:12.000000Z",
+    "Description": "Clean the max \ud83d\udca9 @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-10T22:52:52.000000Z",
+    "Description": "Preply lesson - Cedrick A. @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-10T20:57:40.000000Z",
+    "Description": "Shower @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-10T20:57:38.000000Z",
+    "Description": "Lunch @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-10T18:49:01.000000Z",
+    "Description": "OSSC/COO documentation",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-04-10T17:06:28.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-10T17:06:27.000000Z",
+    "Description": "Breakfast @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-10T15:08:09.000000Z",
+    "Description": "Update the scripts with automator",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-04-10T14:37:04.000000Z",
+    "Description": "Update my calendar @Alexa",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-04-10T14:36:52.000000Z",
+    "Description": "Clear communications @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-10T14:33:53.000000Z",
+    "Description": "Amazon prime @Alexa @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-10T01:03:31.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-10T00:37:33.000000Z",
+    "Description": "1 @Alexa",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-04-10T00:36:31.000000Z",
+    "Description": "1 @Alexa",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-04-10T00:36:11.000000Z",
+    "Description": "Studing grammar",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-09T23:50:55.000000Z",
+    "Description": "\ud83d\uddc4\ufe0f Go to the office",
+    "Project": "\ud83c\udfde\ufe0f Events"
+  },
+  {
+    "Completed at": "2024-04-09T23:50:55.000000Z",
+    "Description": "Book desktop",
+    "Project": "\ud83c\udfde\ufe0f Events"
+  },
+  {
+    "Completed at": "2024-04-09T23:50:55.000000Z",
+    "Description": "Book the transportation",
+    "Project": "\ud83c\udfde\ufe0f Events"
+  },
+  {
+    "Completed at": "2024-04-09T23:50:55.000000Z",
+    "Description": "Get into my transportation",
+    "Project": "\ud83c\udfde\ufe0f Events"
+  },
+  {
+    "Completed at": "2024-04-09T23:50:55.000000Z",
+    "Description": "Pack my gear @Alexa",
+    "Project": "\ud83c\udfde\ufe0f Events"
+  },
+  {
+    "Completed at": "2024-04-09T23:50:55.000000Z",
+    "Description": "Transportation time",
+    "Project": "\ud83c\udfde\ufe0f Events"
+  },
+  {
+    "Completed at": "2024-04-09T23:50:55.000000Z",
+    "Description": "Transportation time",
+    "Project": "\ud83c\udfde\ufe0f Events"
+  },
+  {
+    "Completed at": "2024-04-09T23:50:53.000000Z",
+    "Description": "Lunch @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-09T23:50:52.000000Z",
+    "Description": "Shower @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-09T16:33:26.000000Z",
+    "Description": "Breakfast @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-09T16:33:25.000000Z",
+    "Description": "Clear communications @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-09T16:33:13.000000Z",
+    "Description": "Pack my gear @Alexa",
+    "Project": "\ud83c\udfde\ufe0f Events"
+  },
+  {
+    "Completed at": "2024-04-09T16:33:03.000000Z",
+    "Description": "Preply lesson - Cedrick A. @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-09T16:30:24.000000Z",
+    "Description": "Dinner @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-09T16:28:57.000000Z",
+    "Description": "Swiming @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-08T20:30:31.000000Z",
+    "Description": "Lunch @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-08T20:30:21.000000Z",
+    "Description": "Shower @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-08T17:35:25.000000Z",
+    "Description": "Make an OSSC request for the EMP usage of BSL License Terraform",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-04-08T17:35:25.000000Z",
+    "Description": "Make the OSSC request",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-04-08T17:35:12.000000Z",
+    "Description": "Work in the hand over",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-04-08T17:35:12.000000Z",
+    "Description": "Crete documentation of the OSSC process",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-04-08T16:17:47.000000Z",
+    "Description": "Breakfast @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-08T16:17:45.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-08T15:12:48.000000Z",
+    "Description": "Book desktop",
+    "Project": "\ud83c\udfde\ufe0f Events"
+  },
+  {
+    "Completed at": "2024-04-08T15:11:11.000000Z",
+    "Description": "Ask for SSL issue",
+    "Project": "\ud83d\udcbb Back-End Dev"
+  },
+  {
+    "Completed at": "2024-04-08T15:10:48.000000Z",
+    "Description": "Clear communications @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-08T15:08:22.000000Z",
+    "Description": "Perform claim",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-04-08T05:43:56.000000Z",
+    "Description": "Reset the configuration of the smart light @Medium @Abril",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-04-08T04:51:07.000000Z",
+    "Description": "1 @Alexa",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-04-08T04:48:45.000000Z",
+    "Description": "Review the car @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-08T04:48:43.000000Z",
+    "Description": "Take out the trash @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-08T04:48:42.000000Z",
+    "Description": "Clear my email @Alexa @Abril",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-04-08T04:48:35.000000Z",
+    "Description": "Gerardina's Birthday Celebration",
+    "Project": "\ud83c\udfde\ufe0f Events"
+  },
+  {
+    "Completed at": "2024-04-08T04:48:34.000000Z",
+    "Description": "Clean the max \ud83d\udca9 @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-06T17:54:43.000000Z",
+    "Description": "Add the english learning to my calendar @Alexa @Abril",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-04-06T16:50:48.000000Z",
+    "Description": "Update my budget @Alexa @Abril",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-04-06T16:26:47.000000Z",
+    "Description": "Feed max night @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-06T16:26:39.000000Z",
+    "Description": "Dinner @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-06T16:26:28.000000Z",
+    "Description": "1 @Alexa",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-04-06T16:26:02.000000Z",
+    "Description": "Swiming @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-06T16:25:48.000000Z",
+    "Description": "Clean my Gadgets @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-05T21:50:35.000000Z",
+    "Description": "Shower @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-05T21:50:35.000000Z",
+    "Description": "Lunch @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-05T20:34:32.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-05T19:09:49.000000Z",
+    "Description": "Public services @Alexa @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-05T19:09:45.000000Z",
+    "Description": "Breakfast @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-05T14:43:34.000000Z",
+    "Description": "Change the dollars @Alexa @Abril",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-04-05T14:43:31.000000Z",
+    "Description": "Snack @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-05T13:58:14.000000Z",
+    "Description": "Clear communications @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-04T19:45:59.000000Z",
+    "Description": "Get into my transportation",
+    "Project": "\ud83c\udfde\ufe0f Events"
+  },
+  {
+    "Completed at": "2024-04-04T19:45:55.000000Z",
+    "Description": "Clear Security Alerts",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-04-04T19:45:54.000000Z",
+    "Description": "Check for resolved defects @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-04T18:42:17.000000Z",
+    "Description": "Shower @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-04T18:42:16.000000Z",
+    "Description": "Lunch @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-04T18:42:11.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-04T18:42:06.000000Z",
+    "Description": "Dinner @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-04T18:42:05.000000Z",
+    "Description": "Take out the trash @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-04T15:22:05.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-04T15:22:05.000000Z",
+    "Description": "Breakfast @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-04T15:22:04.000000Z",
+    "Description": "Clear communications @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-04T14:58:41.000000Z",
+    "Description": "\ud83e\udd42 Anniversary @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-04T14:55:58.000000Z",
+    "Description": "Feed max night @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-04T14:55:36.000000Z",
+    "Description": "Kyndryl Bridge",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-04-04T14:54:34.000000Z",
+    "Description": "Professional update",
+    "Project": "\ud83e\uddf0 Projects"
+  },
+  {
+    "Completed at": "2024-04-04T14:54:30.000000Z",
+    "Description": "Upgrade my professional profile @Medium @Abril",
+    "Project": "\ud83e\uddf0 Projects"
+  },
+  {
+    "Completed at": "2024-04-04T14:52:47.000000Z",
+    "Description": "update my budget @Alexa @Abril",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-04-04T14:48:41.000000Z",
+    "Description": "1 @Alexa",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-04-04T14:48:33.000000Z",
+    "Description": "1 @Alexa",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-04-04T14:31:10.000000Z",
+    "Description": "Update my budget @Alexa @Abril @Siri",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-04-04T14:30:47.000000Z",
+    "Description": "Clean the max \ud83d\udca9 @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-04T14:30:46.000000Z",
+    "Description": "Walk max @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-04T14:30:42.000000Z",
+    "Description": "Preply lesson - Cedrick A. @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-04T14:30:34.000000Z",
+    "Description": "Make a dev challenge",
+    "Project": "\ud83d\udcbb Back-End Dev"
+  },
+  {
+    "Completed at": "2024-04-02T19:31:57.000000Z",
+    "Description": "Lunch @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-02T17:45:36.000000Z",
+    "Description": "Shower @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-02T17:21:23.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-02T16:37:40.000000Z",
+    "Description": "Metrocom @Alexa @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-02T16:36:13.000000Z",
+    "Description": "Swiming @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-02T16:35:41.000000Z",
+    "Description": "Clear communications @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-02T16:35:39.000000Z",
+    "Description": "Breakfast @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-02T16:35:32.000000Z",
+    "Description": "Organize my calendar Q2 @Large @Alexa @Abril",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-04-02T16:35:03.000000Z",
+    "Description": "Dinner @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-01T22:58:42.000000Z",
+    "Description": "Preply lesson - Cedrick A. @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-01T20:36:55.000000Z",
+    "Description": "Lunch @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-01T20:36:53.000000Z",
+    "Description": "Shower @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-01T18:35:59.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-01T17:09:27.000000Z",
+    "Description": "Breakfast @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-01T17:09:26.000000Z",
+    "Description": "Clear communications @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-01T17:07:58.000000Z",
+    "Description": "Organize a house after the fixes @Medium @Alexa @Marzo @Siri",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-04-01T17:07:44.000000Z",
+    "Description": "Organize my room @Alexa @Abril @Siri",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-04-01T17:07:18.000000Z",
+    "Description": "Start swimming @Alexa",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-04-01T17:07:00.000000Z",
+    "Description": "Cover the metal plate @Alexa @Marzo",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-04-01T17:06:27.000000Z",
+    "Description": "Uppload the repor toolkit @Medium @Alexa @Marzo",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-04-01T17:06:24.000000Z",
+    "Description": "Refactor the report toolkit @Medium @Alexa @Marzo",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-04-01T17:01:52.000000Z",
+    "Description": "Pay credit card @Alexa @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-01T16:57:56.000000Z",
+    "Description": "Arrentment @Alexa @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-01T16:54:41.000000Z",
+    "Description": "Liberty @Alexa @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-01T15:40:18.000000Z",
+    "Description": "Star+ & Disney + @Alexa @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-01T15:40:15.000000Z",
+    "Description": "Spotify @Alexa @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-01T15:40:10.000000Z",
+    "Description": "Google One @Alexa @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-01T15:40:06.000000Z",
+    "Description": "Dashlane @Alexa @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-01T15:36:11.000000Z",
+    "Description": "Perform claim",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-04-01T15:34:27.000000Z",
+    "Description": "Wash my clothes @Alexa @Marzo @Siri",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-04-01T15:34:15.000000Z",
+    "Description": "Take out the trash @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-04-01T15:34:09.000000Z",
+    "Description": "Feed max night @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-31T01:30:23.000000Z",
+    "Description": "Breakfast @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-31T01:29:34.000000Z",
+    "Description": "Feed max night @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-31T01:29:32.000000Z",
+    "Description": "Snack @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-31T01:29:18.000000Z",
+    "Description": "Lunch @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-31T01:29:16.000000Z",
+    "Description": "Shower @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-31T01:17:06.000000Z",
+    "Description": "Dinner @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-31T01:16:59.000000Z",
+    "Description": "Walk max @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-31T01:16:58.000000Z",
+    "Description": "Clean the max \ud83d\udca9 @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-31T01:16:56.000000Z",
+    "Description": "English encounter @\ud83c\udfde\ufe0f Event",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-27T22:54:36.000000Z",
+    "Description": "Clear communications @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-27T22:54:34.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-27T22:54:34.000000Z",
+    "Description": "Lunch @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-27T22:54:33.000000Z",
+    "Description": "Shower @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-27T20:38:36.000000Z",
+    "Description": "Talk with Siddhartha.Yadav1@kyndryl.com",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-27T18:16:55.000000Z",
+    "Description": "Breakfast @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-27T18:13:03.000000Z",
+    "Description": "Update my budget @Alexa @Siri",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-03-27T18:12:52.000000Z",
+    "Description": "Organize my finances @Large @Marzo",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-03-27T18:10:59.000000Z",
+    "Description": "Feed max night @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-26T22:29:56.000000Z",
+    "Description": "Refactor the report toolkit @Alexa",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-03-26T22:01:22.000000Z",
+    "Description": "Lunch @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-26T22:01:21.000000Z",
+    "Description": "Shower @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-26T22:01:10.000000Z",
+    "Description": "Breakfast @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-26T22:01:10.000000Z",
+    "Description": "Clear communications @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-26T14:03:19.000000Z",
+    "Description": "Dinner @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-26T14:02:53.000000Z",
+    "Description": "VGs @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-26T14:02:51.000000Z",
+    "Description": "Walk max @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-26T14:02:44.000000Z",
+    "Description": "Preply lesson - Cedrick A. @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-26T02:30:17.000000Z",
+    "Description": "el buen amor en pareja @Alexa @Marzo @Super",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-03-25T20:43:49.000000Z",
+    "Description": "Lunch @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-25T20:43:48.000000Z",
+    "Description": "Shower @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-25T17:22:29.000000Z",
+    "Description": "Request GF birthday's vacation @Marzo",
+    "Project": "\ud83d\udc3c GF"
+  },
+  {
+    "Completed at": "2024-03-25T16:59:00.000000Z",
+    "Description": "Clear communications @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-25T16:58:59.000000Z",
+    "Description": "Breakfast @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-25T16:58:58.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-25T16:58:22.000000Z",
+    "Description": "Shared services",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-25T14:50:09.000000Z",
+    "Description": "Perform claim",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-03-25T14:40:18.000000Z",
+    "Description": "Reset the ping of all my cards @Medium @Alexa @Marzo",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-03-25T14:18:07.000000Z",
+    "Description": "Take out the trash @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-25T14:17:28.000000Z",
+    "Description": "Feed max night @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-25T14:17:20.000000Z",
+    "Description": "Clean my Gadgets @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-23T16:20:03.000000Z",
+    "Description": "Clean the max \ud83d\udca9 @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-23T16:17:00.000000Z",
+    "Description": "Feed max moning",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-23T02:50:02.000000Z",
+    "Description": "Create an excel the represent the number of classes that I need to replenish @Alexa @Marzo",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-03-23T02:50:01.000000Z",
+    "Description": "Call my family @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-23T02:03:55.000000Z",
+    "Description": "Clear google photos",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-23T02:03:52.000000Z",
+    "Description": "Feed max night @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-23T02:03:49.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-22T18:03:49.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-22T15:26:07.000000Z",
+    "Description": "Study for the interview @Medium @Marzo",
+    "Project": "Inbox"
+  },
+  {
+    "Completed at": "2024-03-22T15:25:18.000000Z",
+    "Description": "Clean the max \ud83d\udca9 @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-22T15:25:07.000000Z",
+    "Description": "VGs @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-22T15:24:16.000000Z",
+    "Description": "Lunch @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-22T15:24:15.000000Z",
+    "Description": "Shower @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-22T15:24:04.000000Z",
+    "Description": "Breakfast @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-22T15:24:02.000000Z",
+    "Description": "Clear communications @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-22T15:23:51.000000Z",
+    "Description": "Dinner @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-20T20:25:57.000000Z",
+    "Description": "Breakfast @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-20T20:25:56.000000Z",
+    "Description": "Lunch @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-20T20:25:55.000000Z",
+    "Description": "Shower @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-20T13:42:34.000000Z",
+    "Description": "Clear communications @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-20T01:17:41.000000Z",
+    "Description": "Check the car tires @Marzo",
+    "Project": "Inbox"
+  },
+  {
+    "Completed at": "2024-03-19T22:59:09.000000Z",
+    "Description": "Preply lesson - Cedrick A. @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-19T21:51:25.000000Z",
+    "Description": "Answer to John patteli",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-03-19T21:51:25.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-19T21:51:22.000000Z",
+    "Description": "Lunch @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-19T21:48:18.000000Z",
+    "Description": "Review the data flow and define how to make the process more straightforward",
+    "Project": "\ud83e\uddf0 Projects"
+  },
+  {
+    "Completed at": "2024-03-19T21:47:40.000000Z",
+    "Description": "Define a way to save each attachment to a folder with the ID",
+    "Project": "\ud83e\uddf0 Projects"
+  },
+  {
+    "Completed at": "2024-03-19T21:44:53.000000Z",
+    "Description": "App-MMM",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-19T21:44:51.000000Z",
+    "Description": "Schedule the meeting with Legal @Schedule",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-19T21:44:50.000000Z",
+    "Description": "Send the closure email",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-19T21:44:50.000000Z",
+    "Description": "Get the approval of the COO",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-19T21:44:49.000000Z",
+    "Description": "Get the approval of the OSSC",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-19T21:43:47.000000Z",
+    "Description": "MCMP-Marketplace @Alexa",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-19T21:43:20.000000Z",
+    "Description": "OSSC/COO MCMP-Discovery",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-19T21:43:20.000000Z",
+    "Description": "Generate COO Report",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-19T21:43:20.000000Z",
+    "Description": "Get the approval of the OSSC",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-19T21:43:20.000000Z",
+    "Description": "Create the KIPS request",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-19T21:43:20.000000Z",
+    "Description": "Get the approval of the COO",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-19T21:43:20.000000Z",
+    "Description": "Send the closure email",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-19T17:51:29.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-19T17:51:27.000000Z",
+    "Description": "CollabDrive",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-19T17:00:48.000000Z",
+    "Description": "Shower @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-19T16:17:02.000000Z",
+    "Description": "Breakfast @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-19T14:18:02.000000Z",
+    "Description": "Dinner @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-19T14:17:55.000000Z",
+    "Description": "Preply lesson - Cedrick A. @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-19T14:17:50.000000Z",
+    "Description": "Feed max night @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-19T14:17:49.000000Z",
+    "Description": "Walk max @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-19T14:17:28.000000Z",
+    "Description": "Lunch @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-19T14:17:26.000000Z",
+    "Description": "Shower @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-18T18:59:43.000000Z",
+    "Description": "Search for a backup",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-03-18T18:59:40.000000Z",
+    "Description": "Clear communications @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-18T18:59:39.000000Z",
+    "Description": "Breakfast @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-18T15:03:55.000000Z",
+    "Description": "Repair switch broken screen @Marzo",
+    "Project": "\ud83d\udc3c GF"
+  },
+  {
+    "Completed at": "2024-03-18T14:52:41.000000Z",
+    "Description": "Perform claim",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-03-18T14:26:46.000000Z",
+    "Description": "Call the pool to try to freeze my membership @Alexa @Marzo",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-03-18T13:33:58.000000Z",
+    "Description": "Sesi\u00f3n de prevenci\u00f3n al suicidio",
+    "Project": "Inbox"
+  },
+  {
+    "Completed at": "2024-03-18T13:33:52.000000Z",
+    "Description": "Take out the trash @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-18T13:33:51.000000Z",
+    "Description": "Review the car @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-16T01:58:09.000000Z",
+    "Description": "update my budget @Marzo",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-03-15T22:53:16.000000Z",
+    "Description": "Lunch @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-15T22:53:15.000000Z",
+    "Description": "Report dependency defects",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-15T22:53:12.000000Z",
+    "Description": "Review all the security defects",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-15T22:53:00.000000Z",
+    "Description": "Breakfast @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-15T22:52:59.000000Z",
+    "Description": "Shower @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-15T15:36:02.000000Z",
+    "Description": "Clear communications @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-15T15:14:08.000000Z",
+    "Description": "VGs @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-15T00:16:21.000000Z",
+    "Description": "reset my liberty user @Alexa @Marzo",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-03-14T20:03:15.000000Z",
+    "Description": "Lunch @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-14T17:22:47.000000Z",
+    "Description": "Shower @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-14T17:22:41.000000Z",
+    "Description": "eCAM",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-14T15:13:44.000000Z",
+    "Description": "Breakfast @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-14T13:45:34.000000Z",
+    "Description": "Clear communications @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-14T13:45:31.000000Z",
+    "Description": "Dinner @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-14T13:45:30.000000Z",
+    "Description": "Take out the trash @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-14T13:45:25.000000Z",
+    "Description": "Pickup \ud83d\udc3c",
+    "Project": "\ud83d\udc3c GF"
+  },
+  {
+    "Completed at": "2024-03-13T21:38:12.000000Z",
+    "Description": "Key Principles of Change Management 2024",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-03-13T21:11:42.000000Z",
+    "Description": "Lunch @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-13T18:54:15.000000Z",
+    "Description": "Clear communications @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-13T17:59:43.000000Z",
+    "Description": "Shower @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-13T17:59:31.000000Z",
+    "Description": "Review my english words @Marzo",
+    "Project": "Inbox"
+  },
+  {
+    "Completed at": "2024-03-13T17:58:53.000000Z",
+    "Description": "Breakfast @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-13T15:20:50.000000Z",
+    "Description": "Walk max @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-13T15:20:47.000000Z",
+    "Description": "Preply lesson - Cedrick A. @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-13T15:20:42.000000Z",
+    "Description": "Clean the max \ud83d\udca9 @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-13T15:20:41.000000Z",
+    "Description": "Feed max night @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-12T21:21:22.000000Z",
+    "Description": "OSSC overview",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-12T21:21:21.000000Z",
+    "Description": "Do my english assessment @Medium @Marzo",
+    "Project": "\ud83e\uddf0 Projects"
+  },
+  {
+    "Completed at": "2024-03-12T21:21:17.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-12T16:26:58.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-12T16:26:57.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-12T14:35:37.000000Z",
+    "Description": "Move mother work phone to mother daily phone @Alexa @Marzo",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-03-12T14:31:52.000000Z",
+    "Description": "Schedule my english classes @Marzo",
+    "Project": "\ud83e\uddf0 Projects"
+  },
+  {
+    "Completed at": "2024-03-12T14:29:11.000000Z",
+    "Description": "Update my calendar @Alexa @Marzo",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-03-12T14:28:56.000000Z",
+    "Description": "Do the rice and shim @Febrero @Alexa",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-03-12T14:16:12.000000Z",
+    "Description": "Make a quotation of my english classes @Marzo",
+    "Project": "\ud83e\uddf0 Projects"
+  },
+  {
+    "Completed at": "2024-03-12T14:16:05.000000Z",
+    "Description": "Dinner",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-12T14:15:58.000000Z",
+    "Description": "Feed max night",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-12T14:15:39.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-11T23:11:19.000000Z",
+    "Description": "Migrate secure files to proton @Marzo",
+    "Project": "Inbox"
+  },
+  {
+    "Completed at": "2024-03-11T19:44:05.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-11T19:44:03.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-11T15:31:19.000000Z",
+    "Description": "Update my calendar @Marzo",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-03-11T15:30:45.000000Z",
+    "Description": "Enrol on a pool @Alexa @Marzo",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-03-11T15:30:42.000000Z",
+    "Description": "Test some of the pools @Alexa @Marzo",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-03-11T14:58:11.000000Z",
+    "Description": "Perform claim",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-03-11T14:41:28.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-11T14:41:25.000000Z",
+    "Description": "Amazon prime",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-11T12:57:44.000000Z",
+    "Description": "Take out the trash",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-09T21:55:10.000000Z",
+    "Description": "Update budget",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-09T19:51:45.000000Z",
+    "Description": "Move the monitor stand a little down @Marzo",
+    "Project": "\ud83e\uddf0 Projects"
+  },
+  {
+    "Completed at": "2024-03-08T23:03:10.000000Z",
+    "Description": "Send an email to panzariou about the biggest challenge",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-03-08T21:18:17.000000Z",
+    "Description": "MCMP-CCM",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-08T21:18:11.000000Z",
+    "Description": "OSSC/COO FE-Agents",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-08T21:18:11.000000Z",
+    "Description": "Get list of repositories",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-08T21:18:11.000000Z",
+    "Description": "Run the OSS scanning",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-08T21:18:11.000000Z",
+    "Description": "Request revision for the OSSC",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-08T21:18:11.000000Z",
+    "Description": "Create the defect",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-08T21:18:11.000000Z",
+    "Description": "Get the approval of the OSSC",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-08T21:18:11.000000Z",
+    "Description": "Report the findings @Email",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-08T21:18:11.000000Z",
+    "Description": "Talk with the dev team about the findings",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-08T21:18:11.000000Z",
+    "Description": "Send the closure email",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-08T21:18:11.000000Z",
+    "Description": "Generate COO Report",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-08T21:18:11.000000Z",
+    "Description": "Create the KIPS request",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-08T21:18:11.000000Z",
+    "Description": "Get the approval of the COO",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-08T21:18:00.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-08T18:57:14.000000Z",
+    "Description": "Create text to Maithri",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-03-08T17:40:56.000000Z",
+    "Description": "do the dishes",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-08T17:40:37.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-08T17:40:32.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-08T17:40:31.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-07T22:09:26.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-07T22:09:23.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-07T16:46:37.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-07T14:40:12.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-07T14:39:43.000000Z",
+    "Description": "VGs",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-07T14:38:24.000000Z",
+    "Description": "Preply lesson - Cedrick A.",
+    "Project": "Inbox"
+  },
+  {
+    "Completed at": "2024-03-06T20:58:04.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-06T20:58:03.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-06T16:36:53.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-06T16:36:47.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-06T16:36:29.000000Z",
+    "Description": "Feed max night",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-06T16:36:27.000000Z",
+    "Description": "Clean the max \ud83d\udca9",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-06T16:33:39.000000Z",
+    "Description": "Make a research and quotation of the pools nearby @Medium @Alexa @Marzo",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-03-05T21:32:45.000000Z",
+    "Description": "MCMP-CommonServices",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-05T20:38:15.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-05T16:44:48.000000Z",
+    "Description": "MCMP-DevOps-Intelligence",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-05T16:30:43.000000Z",
+    "Description": "FE-Agents",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-05T15:59:46.000000Z",
+    "Description": "Clear communications",
+    "Project": "Inbox"
+  },
+  {
+    "Completed at": "2024-03-05T15:15:38.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-05T14:41:20.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-05T14:41:06.000000Z",
+    "Description": "Go to the supermarket",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-05T14:41:01.000000Z",
+    "Description": "VGs",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-05T14:40:58.000000Z",
+    "Description": "Feed max night",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-05T14:40:57.000000Z",
+    "Description": "Walk max",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-05T14:40:55.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-04T18:58:50.000000Z",
+    "Description": "Send email about job position @Email",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-03-04T18:58:50.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-04T17:16:47.000000Z",
+    "Description": "Practice presentation",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-03-04T17:16:35.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-04T17:16:29.000000Z",
+    "Description": "Psico session @Appointment @\u23f0 Track",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-04T17:16:29.000000Z",
+    "Description": "Receive Reinvestment",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-04T17:16:29.000000Z",
+    "Description": "Send the required infomation",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-04T17:16:29.000000Z",
+    "Description": "Get invoice approval",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-04T17:16:29.000000Z",
+    "Description": "Request to validate the invoice",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-04T17:16:29.000000Z",
+    "Description": "Request the reinvestment",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-04T13:42:31.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-04T13:42:14.000000Z",
+    "Description": "Take out the trash",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-04T13:42:10.000000Z",
+    "Description": "Organize my life @Medium @Alexa @Marzo",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-03-04T13:41:55.000000Z",
+    "Description": "Clean the shoes @Alexa @Marzo",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-04T13:41:27.000000Z",
+    "Description": "Perform claim",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-03-04T01:17:32.000000Z",
+    "Description": "Update my calendar @Medium @Alexa @Marzo",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-03-03T19:34:57.000000Z",
+    "Description": "Update budget",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-03T19:32:31.000000Z",
+    "Description": "Star+ & Disney + @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-03T19:32:26.000000Z",
+    "Description": "Spotify @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-03T19:16:53.000000Z",
+    "Description": "Public services @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-03T19:16:53.000000Z",
+    "Description": "Arrentment @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-01T16:15:31.000000Z",
+    "Description": "Dashlane @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-01T16:15:30.000000Z",
+    "Description": "Star+ & Disney + @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-01T16:15:27.000000Z",
+    "Description": "Pay credit card @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-01T16:15:26.000000Z",
+    "Description": "Google One @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-01T16:15:24.000000Z",
+    "Description": "Metrocom @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-01T15:42:21.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-01T15:42:20.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-01T15:42:02.000000Z",
+    "Description": "Clean the max \ud83d\udca9",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-01T15:42:01.000000Z",
+    "Description": "Feed max night",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-01T15:41:40.000000Z",
+    "Description": "Play tenis",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-01T15:28:58.000000Z",
+    "Description": "English Encounter",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-03-01T15:28:58.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-29T19:40:58.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-29T19:40:54.000000Z",
+    "Description": "Create the anaqua request",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-29T15:10:44.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-29T15:05:05.000000Z",
+    "Description": "Provide feedback to Amar Savalagi",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-02-29T14:04:40.000000Z",
+    "Description": "Liberty @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-29T14:04:01.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-28T18:15:43.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-28T15:45:27.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-28T15:45:11.000000Z",
+    "Description": "VGs",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-27T22:41:21.000000Z",
+    "Description": "Add the goal of review legal documentation",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-02-27T22:40:51.000000Z",
+    "Description": "Provide feedback to Grettel",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-02-27T22:40:51.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-27T22:40:50.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-27T16:25:38.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-27T16:25:19.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-27T16:25:11.000000Z",
+    "Description": "Feed max night",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-27T16:25:09.000000Z",
+    "Description": "Walk max",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-27T16:25:05.000000Z",
+    "Description": "Workout",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-26T21:41:06.000000Z",
+    "Description": "Request feedback",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-02-26T21:40:22.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-26T16:33:04.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-26T16:33:02.000000Z",
+    "Description": "Generate a list of all the people who I worked with",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-02-26T15:16:25.000000Z",
+    "Description": "Archive at least 8 hrs working on my father web page @Febrero @Large",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-02-26T15:16:04.000000Z",
+    "Description": "Remove my photos from my old google account @Alexa",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-02-26T15:15:55.000000Z",
+    "Description": "Remove my photos from my old google account @Febrero @Medium @Alexa",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-02-26T15:15:23.000000Z",
+    "Description": "Check the AWS billing message @Febrero",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-02-26T14:42:10.000000Z",
+    "Description": "Perform claim",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-02-26T14:38:38.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-26T14:38:11.000000Z",
+    "Description": "Action required : CR Labor Claiming starting",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-02-26T13:27:19.000000Z",
+    "Description": "Change my glasses @Febrero @Medium",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-02-26T13:26:52.000000Z",
+    "Description": "Sport's glasses @Febrero",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-02-26T13:22:37.000000Z",
+    "Description": "Standing monitor @Febrero @Medium",
+    "Project": "\ud83e\uddf0 Projects"
+  },
+  {
+    "Completed at": "2024-02-26T13:20:59.000000Z",
+    "Description": "Take out the trash",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-26T13:20:47.000000Z",
+    "Description": "Take the switch to repair",
+    "Project": "\ud83d\udc3c GF"
+  },
+  {
+    "Completed at": "2024-02-26T13:18:15.000000Z",
+    "Description": "Update my budget @Febrero @Medium @Alexa",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-02-23T17:52:31.000000Z",
+    "Description": "Define my claim code",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-02-23T17:16:08.000000Z",
+    "Description": "Wall Street English",
+    "Project": "Inbox"
+  },
+  {
+    "Completed at": "2024-02-23T17:16:04.000000Z",
+    "Description": "Setup 1:1 with Panzario @Schedule",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-02-23T17:15:30.000000Z",
+    "Description": "Define what to talk",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-23T17:13:42.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-23T17:13:38.000000Z",
+    "Description": "Psico session",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-23T17:13:34.000000Z",
+    "Description": "Feed max night",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-23T17:13:31.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-23T17:13:30.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-23T17:13:27.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-22T13:57:51.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-21T23:06:50.000000Z",
+    "Description": "Feed max night",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-21T23:06:34.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-21T23:06:33.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-21T23:06:32.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-21T23:06:28.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-20T22:54:02.000000Z",
+    "Description": "Make the delta with previos reports",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-20T22:51:44.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-20T19:08:26.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-20T18:10:50.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-20T15:14:21.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-20T15:12:51.000000Z",
+    "Description": "Clear email @Febrero @Alexa",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-02-19T23:06:01.000000Z",
+    "Description": "Star+ & Disney + @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-19T15:56:37.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-19T15:24:49.000000Z",
+    "Description": "Complete Unimart shopping",
+    "Project": "\ud83d\udc3c GF"
+  },
+  {
+    "Completed at": "2024-02-19T14:59:22.000000Z",
+    "Description": "Perform claim",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-02-19T14:51:10.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-19T14:51:08.000000Z",
+    "Description": "Take out the trash",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-19T14:47:48.000000Z",
+    "Description": "Check money status with father @Alexa",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-02-16T23:44:52.000000Z",
+    "Description": "MCMP-Discovery",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-16T23:44:52.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-16T23:44:51.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-16T19:14:23.000000Z",
+    "Description": "Schedule the meeting with the CISO team @Schedule",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-16T19:14:16.000000Z",
+    "Description": "Schedule meeting with Kenny @Schedule",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-16T15:39:09.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-16T15:39:05.000000Z",
+    "Description": "Clear google photos",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-16T00:32:53.000000Z",
+    "Description": "Modify the CSAR report and add the required comments on all the Elastic packages",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-16T00:31:53.000000Z",
+    "Description": "OSA",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-16T00:31:52.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-15T17:58:33.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-15T17:58:23.000000Z",
+    "Description": "Cut the paper @Febrero",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-15T17:58:22.000000Z",
+    "Description": "Create the art @Febrero",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-15T17:58:17.000000Z",
+    "Description": "Make the invitation",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-15T17:58:04.000000Z",
+    "Description": "Get the photo frame @Febrero",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-15T17:57:26.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-15T17:57:20.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-15T17:57:19.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-15T17:56:45.000000Z",
+    "Description": "\u2764\ufe0f Valentines day @\ud83c\udfde\ufe0f Event",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-13T16:53:20.000000Z",
+    "Description": "Clear Security Alerts",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-13T16:53:15.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-13T16:53:14.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-13T00:06:16.000000Z",
+    "Description": "Create the KIPS request",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-12T21:50:55.000000Z",
+    "Description": "Sport's glasses @Medium @Enero",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-02-12T21:47:16.000000Z",
+    "Description": "OSSC Organization",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-12T21:45:34.000000Z",
+    "Description": "Request revision for the OSSC",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-12T21:45:32.000000Z",
+    "Description": "Talk with the dev team about the findings",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-12T21:45:31.000000Z",
+    "Description": "Create the defect",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-12T21:45:30.000000Z",
+    "Description": "Report the findings @Email",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-12T21:45:26.000000Z",
+    "Description": "Run the OSS scanning",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-12T21:45:24.000000Z",
+    "Description": "Get list of repositories",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-12T21:45:16.000000Z",
+    "Description": "OSSC/COO 2023 KCNS AWS",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-12T21:45:16.000000Z",
+    "Description": "Get the approval of the COO",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-12T21:45:16.000000Z",
+    "Description": "Send the closure email",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-12T21:45:07.000000Z",
+    "Description": "Request revision for the OSSC",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-12T21:45:00.000000Z",
+    "Description": "Generate COO Report",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-12T21:44:39.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-12T16:57:13.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-12T15:33:39.000000Z",
+    "Description": "Perform claim",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-02-12T15:23:04.000000Z",
+    "Description": "Take out the trash",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-12T15:23:03.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-12T15:22:45.000000Z",
+    "Description": "Amazon prime",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-10T00:21:49.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-10T00:21:48.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-09T18:29:06.000000Z",
+    "Description": "MCMP-Discovery",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-09T15:41:41.000000Z",
+    "Description": "Make the final page @Febrero @Medium",
+    "Project": "\ud83e\uddf0 Projects"
+  },
+  {
+    "Completed at": "2024-02-09T15:41:38.000000Z",
+    "Description": "Connect with the domain @Febrero @Medium",
+    "Project": "\ud83e\uddf0 Projects"
+  },
+  {
+    "Completed at": "2024-02-09T15:41:20.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-09T15:40:57.000000Z",
+    "Description": "Update budget",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-09T15:40:45.000000Z",
+    "Description": "MCMP-Marketplace",
+    "Project": "Inbox"
+  },
+  {
+    "Completed at": "2024-02-09T15:40:38.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-08T20:54:48.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-08T20:54:41.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-08T20:54:29.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-08T20:54:21.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-07T16:41:18.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-07T16:41:12.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-07T16:41:02.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-07T16:07:58.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-07T16:07:56.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-06T15:28:38.000000Z",
+    "Description": "Work in the CodeQL presentation",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-06T15:28:29.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-06T15:26:49.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-05T18:46:49.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-05T18:46:45.000000Z",
+    "Description": "Perform claim",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-02-05T14:11:21.000000Z",
+    "Description": "Spotify @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-05T14:10:18.000000Z",
+    "Description": "Create a first draft @Febrero @Medium",
+    "Project": "\ud83e\uddf0 Projects"
+  },
+  {
+    "Completed at": "2024-02-02T23:10:42.000000Z",
+    "Description": "OSSC/COO 2023 KCNS GPC",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-02T23:10:41.000000Z",
+    "Description": "Get the approval of the COO",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-02T23:10:41.000000Z",
+    "Description": "Send the closure email",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-02T22:44:40.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-02T21:14:41.000000Z",
+    "Description": "KCNS",
+    "Project": "Inbox"
+  },
+  {
+    "Completed at": "2024-02-02T21:14:39.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-02T21:14:37.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-02T20:30:38.000000Z",
+    "Description": "OSSC/COO 2023 KCNS Azure",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-02T20:30:33.000000Z",
+    "Description": "Send the closure email",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-02T20:30:32.000000Z",
+    "Description": "Get the approval of the COO",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-02T18:59:27.000000Z",
+    "Description": "COO/OSSC AIOps",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-02T18:59:23.000000Z",
+    "Description": "Get the approval of the COO",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-02T18:59:22.000000Z",
+    "Description": "Send the closure email",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-02-02T16:53:18.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-02T16:52:40.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-02T16:52:39.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-01T16:26:59.000000Z",
+    "Description": "Metrocom @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-01T16:26:58.000000Z",
+    "Description": "Google One @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-01T16:26:57.000000Z",
+    "Description": "Dashlane @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-01T16:26:57.000000Z",
+    "Description": "Public services @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-01T16:26:56.000000Z",
+    "Description": "Arrentment @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-01T16:17:21.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-01T15:21:09.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-01T15:21:08.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-01T00:08:26.000000Z",
+    "Description": "Pay credit card @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-02-01T00:08:21.000000Z",
+    "Description": "Liberty @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-31T23:31:55.000000Z",
+    "Description": "App-MMM",
+    "Project": "Inbox"
+  },
+  {
+    "Completed at": "2024-01-31T20:36:38.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-31T20:36:37.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-31T20:36:35.000000Z",
+    "Description": "Setup the meeting KCNS Azure",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-31T17:20:09.000000Z",
+    "Description": "Create the KIPS request",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-31T17:20:05.000000Z",
+    "Description": "Generate COO Report",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-31T17:20:04.000000Z",
+    "Description": "Create the KIPS request",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-31T17:20:02.000000Z",
+    "Description": "Get the approval of the OSSC",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-31T17:17:24.000000Z",
+    "Description": "Add the comments provided by the Azure team",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-31T17:15:42.000000Z",
+    "Description": "Schedule a meeting with the dev team @Schedule",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-31T17:15:38.000000Z",
+    "Description": "Create the KIPS request",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-31T17:15:36.000000Z",
+    "Description": "Get the approval of the OSSC",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-31T17:15:35.000000Z",
+    "Description": "Request revision for the OSSC",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-31T17:11:52.000000Z",
+    "Description": "Setup the meeting KCNS GCP",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-31T16:00:43.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-31T15:33:21.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-31T14:45:24.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-30T21:42:51.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-30T21:42:50.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-30T17:44:17.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-30T17:43:54.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-30T15:19:26.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-30T15:19:25.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-30T15:19:25.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-29T22:04:54.000000Z",
+    "Description": "Perform claim",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-01-26T23:57:48.000000Z",
+    "Description": "English Encounter @\ud83c\udfde\ufe0f Event",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-26T23:57:48.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-26T23:57:33.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-26T23:57:32.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-26T23:56:49.000000Z",
+    "Description": "Play tenis",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-25T21:28:26.000000Z",
+    "Description": "Build the calendar shortcut",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-01-25T20:40:58.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-25T18:01:56.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-25T14:25:42.000000Z",
+    "Description": "Shop mother package tomorrow at 9 am",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-25T14:22:06.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-25T14:21:50.000000Z",
+    "Description": "Dinner",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-24T22:50:50.000000Z",
+    "Description": "Review the notes and send via email all the action points",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-24T21:53:32.000000Z",
+    "Description": "Review the meeting and define the action points",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-24T20:11:59.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-24T20:11:59.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-24T18:52:36.000000Z",
+    "Description": "Talk with the Duolingo support team @Alexa",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-01-24T17:55:38.000000Z",
+    "Description": "Create the KIPS request",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-24T17:55:36.000000Z",
+    "Description": "Generate COO Report",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-24T17:55:34.000000Z",
+    "Description": "Get the approval of the OSSC",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-24T17:55:33.000000Z",
+    "Description": "Request revision for the OSSC",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-24T17:54:26.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-24T17:54:25.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-24T00:02:59.000000Z",
+    "Description": "Haircut @\ud83c\udfde\ufe0f Event",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-23T21:08:57.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-23T17:45:54.000000Z",
+    "Description": "Make the request in the SharePoint",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-23T15:49:55.000000Z",
+    "Description": "Star+ & Disney + @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-23T15:49:50.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-23T15:10:48.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-22T23:44:26.000000Z",
+    "Description": "Talk with the dev team about the findings",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-22T23:44:22.000000Z",
+    "Description": "Report the findings @Email",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-22T23:44:18.000000Z",
+    "Description": "Fill the legal template",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-22T21:21:28.000000Z",
+    "Description": "MCMP-Discovery",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-22T21:21:24.000000Z",
+    "Description": "Receive all the pull request approvals",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-22T21:21:21.000000Z",
+    "Description": "Make the closure @Email",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-22T20:31:33.000000Z",
+    "Description": "Close the defect regarding the OS update",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-01-22T20:15:15.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-22T15:59:36.000000Z",
+    "Description": "Organize my bathroom @Alexa @Enero @Siri",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-01-22T15:58:55.000000Z",
+    "Description": "Move my english Gantt diagram @Alexa @Enero",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-01-22T15:58:36.000000Z",
+    "Description": "defect Tracker Configure the automation",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-22T15:57:46.000000Z",
+    "Description": "Setup CSAR again",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-22T15:27:33.000000Z",
+    "Description": "Perform claim",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-01-22T14:18:28.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-22T14:16:12.000000Z",
+    "Description": "Review the car",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-20T18:54:26.000000Z",
+    "Description": "Setup the CISO meeting",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-20T15:48:52.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-19T17:48:59.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-18T20:42:17.000000Z",
+    "Description": "Request approval from CISO @Email",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-18T19:55:56.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-18T19:55:56.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-18T17:45:16.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-18T17:45:15.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-18T13:34:40.000000Z",
+    "Description": "Organize the tool box @Alexa @Enero",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-01-18T00:18:28.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-17T22:59:32.000000Z",
+    "Description": "Search the missing licenses",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-17T19:36:59.000000Z",
+    "Description": "Create the defect",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-17T19:36:40.000000Z",
+    "Description": "Run the OSS scanning",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-17T19:36:35.000000Z",
+    "Description": "Get list of repositories",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-17T19:35:41.000000Z",
+    "Description": "Fe-Agents",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-17T19:35:41.000000Z",
+    "Description": "Add the defect URL to the comments of the goals",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-17T19:35:09.000000Z",
+    "Description": "MCMP-Marketplace",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-17T19:32:18.000000Z",
+    "Description": "Migrate defects",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-17T19:32:18.000000Z",
+    "Description": "MCMP-Discovery defects",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-17T19:32:18.000000Z",
+    "Description": "MCMP-Integration defects",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-17T17:36:46.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-17T16:55:43.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-17T15:59:20.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-17T15:56:55.000000Z",
+    "Description": "Define what I can work on Sec",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-17T15:56:54.000000Z",
+    "Description": "Review the status of this project",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-17T01:23:46.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-17T01:23:44.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-16T14:20:36.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-16T12:35:32.000000Z",
+    "Description": "Clean the fridge @Enero",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-16T12:35:05.000000Z",
+    "Description": "VGs",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-15T22:58:38.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-15T22:49:45.000000Z",
+    "Description": "Add the Caio and Alipio post to the KBI",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-01-15T19:53:02.000000Z",
+    "Description": "Do the GCP training",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-01-15T17:25:22.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-15T17:25:08.000000Z",
+    "Description": "Follow up regarding who can make a risk assessment regarding keep with non-BSL license with",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-15T15:37:28.000000Z",
+    "Description": "Clear google photos",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-15T15:18:57.000000Z",
+    "Description": "Perform claim",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-01-15T15:01:23.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-15T14:57:56.000000Z",
+    "Description": "Review the car",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-15T14:09:45.000000Z",
+    "Description": "Make the Amazon purchases @Alexa",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-01-14T19:57:42.000000Z",
+    "Description": "Pickup girl",
+    "Project": "\ud83d\udc3c GF"
+  },
+  {
+    "Completed at": "2024-01-13T19:58:49.000000Z",
+    "Description": "Update my budget @Enero",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-13T19:58:40.000000Z",
+    "Description": "Breakfast @Alexa",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-12T21:50:05.000000Z",
+    "Description": "Talk with procurement team to know more about it",
+    "Project": "\ud83d\udcbb Back-End Dev"
+  },
+  {
+    "Completed at": "2024-01-12T21:45:00.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-12T17:38:40.000000Z",
+    "Description": "Organize all about COO KCNS",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-12T17:38:39.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-12T15:45:00.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-12T15:19:27.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-11T22:54:25.000000Z",
+    "Description": "Configure my work station",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-11T22:52:28.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-11T16:57:22.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-11T16:57:20.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-11T16:57:13.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-11T16:54:42.000000Z",
+    "Description": "Replace my workstation",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-11T16:54:33.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-10T15:23:06.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-10T15:23:04.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-10T15:22:58.000000Z",
+    "Description": "Practice Writing @Noviembre",
+    "Project": "\ud83e\uddf0 Projects"
+  },
+  {
+    "Completed at": "2024-01-10T15:21:49.000000Z",
+    "Description": "Research the best way to practice the writing @Enero",
+    "Project": "\ud83e\uddf0 Projects"
+  },
+  {
+    "Completed at": "2024-01-10T15:21:47.000000Z",
+    "Description": "pack my gear",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-10T15:21:29.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-09T18:22:44.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-09T16:17:56.000000Z",
+    "Description": "Check backup",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-01-09T16:12:05.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-09T14:07:09.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-08T22:06:04.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-08T16:35:15.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-08T16:35:13.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-08T15:06:21.000000Z",
+    "Description": "Perform claim",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-01-08T15:02:11.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-08T15:02:10.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-08T15:01:59.000000Z",
+    "Description": "Organize calendar Q1 @Large @Alexa @Enero",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-01-08T04:06:43.000000Z",
+    "Description": "Mother landing \ud83d\udeec @\ud83c\udfde\ufe0f Event",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-08T04:05:50.000000Z",
+    "Description": "Pick up my girlfriend @Alexa @Siri",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-01-07T00:35:18.000000Z",
+    "Description": "Update my budget @Medium @Enero",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-06T23:42:21.000000Z",
+    "Description": "Setup my goals for 2024 @Medium @Alexa @Enero",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-01-06T23:04:41.000000Z",
+    "Description": "Couch Gamer @Extreme @Alexa @Enero",
+    "Project": "\ud83e\uddf0 Projects"
+  },
+  {
+    "Completed at": "2024-01-06T23:02:04.000000Z",
+    "Description": "Move my english Gantt diagram @Medium @Enero",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-01-06T21:09:18.000000Z",
+    "Description": "Define what type of glasses do I want @Medium @Alexa @Enero @Siri",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-01-06T19:49:31.000000Z",
+    "Description": "Wall Street English",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-06T19:18:13.000000Z",
+    "Description": "Pickup mother flowers",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-06T06:49:32.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-06T06:49:08.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-05T16:50:46.000000Z",
+    "Description": "answer discovery comments",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-05T16:50:44.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-05T16:28:55.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-05T16:28:53.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-05T16:28:42.000000Z",
+    "Description": "Tenis",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-04T17:21:52.000000Z",
+    "Description": "Catchup regarding the OSSC/COO procees",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-04T17:18:38.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-04T17:18:28.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-04T17:17:50.000000Z",
+    "Description": "Clear due date food from the kitchen @Medium @Alexa @Enero",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-01-03T22:38:45.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-03T22:38:44.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-03T19:16:14.000000Z",
+    "Description": "Review Marketplace Security Defects",
+    "Project": "\ud83d\udcbb Back-End Dev"
+  },
+  {
+    "Completed at": "2024-01-03T17:52:20.000000Z",
+    "Description": "Deprecated code on **MCMP-Marketplace/cb-operations-catalog**",
+    "Project": "\ud83d\udcbb Back-End Dev"
+  },
+  {
+    "Completed at": "2024-01-03T17:52:20.000000Z",
+    "Description": "**Meeting MCMP-Marketplace/cb-operations-catalog deprecated code review** @Meeting",
+    "Project": "\ud83d\udcbb Back-End Dev"
+  },
+  {
+    "Completed at": "2024-01-03T17:36:46.000000Z",
+    "Description": "Take the car to wash",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-03T17:08:12.000000Z",
+    "Description": "Answer the email about REDoS question @Email",
+    "Project": "\ud83c\udf10 Security Analyst"
+  },
+  {
+    "Completed at": "2024-01-03T16:32:16.000000Z",
+    "Description": "Spotify @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-03T16:29:11.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-03T15:37:20.000000Z",
+    "Description": "Call the Tec to ask about the swimming pool @Alexa",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-01-03T15:23:34.000000Z",
+    "Description": "Training Key Principles of Major Incident Management",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-01-03T14:28:22.000000Z",
+    "Description": "Charge my gadgets @Siri",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-01-03T14:22:13.000000Z",
+    "Description": "Clear communications",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-03T04:52:30.000000Z",
+    "Description": "soda to the bathroom @Alexa",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-01-03T04:52:29.000000Z",
+    "Description": "Set up the aware of office message @Alexa",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-01-03T02:00:57.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-03T02:00:25.000000Z",
+    "Description": "Installed plasma desktop @Alexa @Enero @Siri",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-01-02T22:51:38.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-02T18:40:47.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-02T18:40:44.000000Z",
+    "Description": "Unpack @Alexa @Enero @Siri",
+    "Project": "\u26f3\ufe0f Goals"
+  },
+  {
+    "Completed at": "2024-01-02T18:40:16.000000Z",
+    "Description": "Paint the cover @Enero",
+    "Project": "\ud83e\uddf0 Projects"
+  },
+  {
+    "Completed at": "2024-01-02T18:40:14.000000Z",
+    "Description": "Pass the cable through the wall @Enero",
+    "Project": "\ud83e\uddf0 Projects"
+  },
+  {
+    "Completed at": "2024-01-02T14:59:53.000000Z",
+    "Description": "Perform claim",
+    "Project": "\ud83c\udf01 Kyndryl"
+  },
+  {
+    "Completed at": "2024-01-02T05:22:37.000000Z",
+    "Description": "Buy the paint @Enero",
+    "Project": "\ud83e\uddf0 Projects"
+  },
+  {
+    "Completed at": "2024-01-02T05:02:26.000000Z",
+    "Description": "Google One @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-02T05:02:25.000000Z",
+    "Description": "Pay credit card @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-02T05:02:12.000000Z",
+    "Description": "Metrocom @Payments",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-02T04:55:35.000000Z",
+    "Description": "Lunch",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-02T04:55:34.000000Z",
+    "Description": "Breakfast",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-02T04:55:30.000000Z",
+    "Description": "Shower",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-02T04:54:50.000000Z",
+    "Description": "Marchamo @Payments @Enero",
+    "Project": "\ud83d\udce6 Task box"
+  },
+  {
+    "Completed at": "2024-01-02T04:54:49.000000Z",
+    "Description": "Set up marchamo",
+    "Project": "\ud83d\udce6 Task box"
   }
 ]
 

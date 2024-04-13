@@ -6,10 +6,10 @@ import json
 
 class ServiceTodoist:
 
-    def get_projects(self, token):
+    def check_token_auth(self, token):
         # Define Services
         web_request = UtilWebRequest()
-        service_prompt = UtilPrompt()
+        prompt = UtilPrompt()
 
         headers = {
             "Authorization": f"Bearer {token}"
@@ -18,9 +18,17 @@ class ServiceTodoist:
         # Check token authtentication
         if web_request.check_auth(
                 headers, None, env["BASE_API_URL"]+r"/get_all?limit=1", None):
-            service_prompt.message("Successfully authenticated via API Token")
+            prompt.message("Successfully authenticated via API Token")
         else:
             raise Exception("Something went wrong while authenticating")
+
+    def get_projects(self, token):
+        # Define Services
+        web_request = UtilWebRequest()
+
+        headers = {
+            "Authorization": f"Bearer {token}"
+        }
 
         url = env["BASE_GET_PROJECTS_URL"]
         r = web_request.get(headers, None, url, None)
@@ -29,18 +37,10 @@ class ServiceTodoist:
     def get_task(self, token, time_period):
         # Define Services
         web_request = UtilWebRequest()
-        service_prompt = UtilPrompt()
 
         headers = {
             "Authorization": f"Bearer {token}"
         }
-
-        # Check token authtentication
-        if web_request.check_auth(
-                headers, None, env["BASE_API_URL"]+r"/get_all?limit=1", None):
-            service_prompt.message("Successfully authenticated via API Token")
-        else:
-            raise Exception("Something went wrong while authenticating")
 
         # Obtain tasks
         limit = int(env["API_LIMIT"])
